@@ -5,6 +5,6 @@ public class MyThread {
  int i;
  int k;
  int m;
- 
+ int n;
  
 }
